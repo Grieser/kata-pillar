@@ -1,0 +1,26 @@
+{
+  "name": "kata-pillar",
+  "version": "1.0.0",
+  "description": "barebones test file",
+  "main": "default.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Grieser/kata-pillar.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Grieser/kata-pillar/issues"
+  },
+  "homepage": "https://github.com/Grieser/kata-pillar#readme",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0"
+  }
+}
